@@ -10,8 +10,7 @@ Hi, I’m Yarin Kovalski
 ---
 
 ## Projects (coming soon)
-- Personal Portfolio Website (React + Vercel)
-- Python Automation Tools
-- Full-Stack Todo App with Auth
+- **Python Automation Tools** (Active Development)
+ *Building a system to automate local file management and organization.*
 
 Stay tuned — new projects will appear here soon!
