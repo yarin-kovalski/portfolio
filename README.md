@@ -10,7 +10,4 @@ Hi, I’m Yarin Kovalski
 ---
 
 ## Projects (coming soon)
-- **Python Automation Tools** (Active Development)
- *Building a system to automate local file management and organization.*
-
 Stay tuned — new projects will appear here soon!
