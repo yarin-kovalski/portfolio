@@ -3,7 +3,6 @@
 Hi, I’m Yarin Kovalski 
 -  Computer Science student @ Reichman University  
 -  Building projects in Java, C, Python & Web, JS
--  Focused on becoming a Full-Stack & Software Engineer  
 -  Connect with me on [LinkedIn](https://www.linkedin.com/in/yarin-kovalski-783486383)
 
 
